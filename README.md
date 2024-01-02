@@ -17,7 +17,7 @@
 
 # شكرًا لك!
 
-<div dir="rtl" style="text-align: center;">
+<div dir="rtl" align="center">
 اذا كنت تقدر هذا، فلا تتردد في متابعتي أو التبرع!
 
 ETH/Arbitrum/Optimism/Polygon/etc : 0xD5fcA153769847Ef9C3dEA17aC0166209dee11f7
