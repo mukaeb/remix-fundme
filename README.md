@@ -1,6 +1,6 @@
 <div dir="rtl" >
 
-هذا جزء من دورة تطوير سوليدتي
+هذا جزء من [دورة تطوير سوليدتي](https://github.com/mukaeb/solidity-full-course)
 
 
 ## للبدء
@@ -8,7 +8,7 @@
 
 1- انتقل إلى [ريمكس](https://remix.ethereum.org/)
 
-2- الصق الكود من "FundMe.sol" و"PriceConverter.sol" في الملفات الجديدة في Remix
+2- الصق الكود من "FundMe.sol" و"GetConversion.sol" في الملفات الجديدة في Remix
 
 3- اضغط على "Compile".
 
