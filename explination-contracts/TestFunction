@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.18;
+
+contract TestFunction {
+    uint public TestNumber ; 
+
+    receive() external payable {
+        TestNumber = 1 ;
+     }
+
+     fallback() external payable { 
+        TestNumber = 2 ; 
+     }
+}
